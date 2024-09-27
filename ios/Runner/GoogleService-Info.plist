@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAcHHNMzXHyWxu6p73gW6XMsw24Zyo4oDo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>186528914133</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mamut.coventil.ios</string>
+	<key>PROJECT_ID</key>
+	<string>coventil-6b9db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coventil-6b9db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:186528914133:ios:40cc03e80f5dff93a8e05c</string>
+</dict>
+</plist>

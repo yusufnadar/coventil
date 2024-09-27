@@ -1,0 +1,1 @@
+enum SelectedDeviceEnum { subDevice, parentDevice }

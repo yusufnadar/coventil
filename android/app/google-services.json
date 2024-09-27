@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186528914133",
+    "project_id": "coventil-6b9db",
+    "storage_bucket": "coventil-6b9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186528914133:android:774354651d10364fa8e05c",
+        "android_client_info": {
+          "package_name": "com.mamut.coventil.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTKGFy8kdPNV_zKZ_n-_N2u4ozCu2N4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
